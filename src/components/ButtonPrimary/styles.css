@@ -1,0 +1,14 @@
+.btn-next {
+  margin-top: 27px;
+}
+
+.btn-next-page {
+  height: 40px;
+  width: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  color: var(--color-font-white);
+  background-color: var(--color-bg-secondary-blue);
+}
