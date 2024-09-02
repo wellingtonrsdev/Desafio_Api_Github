@@ -9,9 +9,6 @@
 
 Projeto desenvolvido foi proposto pela [DevSuperior](https://devsuperior.com.br/) teve o objetivo de consumir Api do GitHub e buscar um usuário utlizando a biblioteca React com typescript, o layout foi disponibilizado no figma. Com isso foi possível praticar e compreender melhor a estrutura do React, bem como a utilização dos componentes, routes e props.
 
-##
-
-Deploy do projeto realizado no vercel, veja [aqui](https://github-api-red-six.vercel.app/home).
 
 ## Veja o projeto
 
