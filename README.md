@@ -14,7 +14,8 @@ Projeto desenvolvido foi proposto pela [DevSuperior](https://devsuperior.com.br/
 
 Experimente live demo:
 
-![FrontEnd](https://i.imgur.com/CI3R2Dn.gif)
+[![Frontend](https://img.youtube.com/vi/3SV5TQHsFVs/maxresdefault.jpg)](https://youtu.be/3SV5TQHsFVs)
+
 
 ## Como criar e executar o Desafio GitHub Api localmente
 
