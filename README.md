@@ -57,7 +57,7 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
    </br>
 
    <div align="center">
-   <a href = "https://rodrigueswellington3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:rodrigueswellington3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para o Gmail"></a>
   <a href="https://www.linkedin.com/in/wellington-rodrigues-rsdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.dio.me/users/rodrigueswellington3" target="_blank"><img src="https://img.shields.io/badge/-Meu perfil na dio-%230077B5?style=for-the-badge&logo=dio&logoColor=white" target="_blank"></a>
 </div>
