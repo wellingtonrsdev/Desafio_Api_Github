@@ -32,15 +32,16 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 
 2. Abra o projeto em sua IDE de preferência(utilizado o Visual Studio Code).
 
-3. Faça o download das dependências com o comando a seguir: (certifique que eseja na pasta raiz)  
- ```bash 
-  yarn
- ```
+3. Faça o download das dependências com o comando a seguir: (certifique que eseja na pasta raiz)
+   
+   ```bash 
+    yarn
+   ```
  4. Em seguida execute o comoando para inicializar o projeto localmente: 
  
- ```bash 
-  yarn dev
- ```
+    ```bash 
+     yarn dev
+    ```
 
 ## Tecnologias utlizadas
 
